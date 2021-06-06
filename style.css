@@ -1,0 +1,84 @@
+#logo{
+    size: 30px;
+    margin-left: 64px;
+  
+}
+
+
+
+#logo-name {
+    font-size: 64px;
+    font-weight: bold;
+    margin: 16px;
+    margin-left: 32px;
+    margin-top: 16px;
+}
+body {
+        font-family: Verdana;
+        margin: 0;
+        padding: 0;
+        color: #353535;
+        background-image: url("https://images.unsplash.com/photo-1612153018787-4899c6e056d7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80");
+        background-size: 100%;
+        
+    }
+    
+    
+#navigation {
+    color: gray;
+    padding: 8px;
+    text-align: center;
+}
+
+
+a{
+    color: gray;
+}
+#navigation :hover{
+    color: blue;
+}
+
+
+
+#main{
+    max-width: 800px;
+    margin: auto;
+    size: 30px;
+    margin-left: 64px;
+    
+}
+
+
+#footer{
+    text-align: center;
+    color: gray;
+    padding: 16px;
+}
+
+
+#logo{
+    width: 100px;
+}
+
+
+.Salat{
+    size: 100px;
+}
+
+
+.top{
+    width: 33%;
+    display: inline-block;
+    text-align: left;
+    
+}
+
+.top2{
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+}
+
+.karte{
+    margin-left: 50px;
+}
