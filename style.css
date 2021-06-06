@@ -1,0 +1,43 @@
+#logo{
+    size: 30px;
+    margin-top: 16px;
+}
+
+
+
+#logo-name {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 16px;
+}
+body {
+        font-family: Verdana;
+        margin: 0;
+        padding: 0;
+        color: #353535;
+        text-align: center;
+        
+    }
+    
+    
+#navigation a{
+    color: gray;
+    padding: 8px;
+}
+#navigation :hover{
+    color: blue;
+}
+
+
+
+#main{
+    max-width: 800px;
+    margin: auto;
+}
+
+
+#footer{
+    text-align: center;
+    color: gray;
+    padding: 16px;
+}
